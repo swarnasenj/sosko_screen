@@ -231,34 +231,7 @@ class _HomePageState extends State<HomePage> {
                   ),
                 ),
                 ProductsPage(),
-                // Container(
-                //   margin: EdgeInsets.only(
-                //     //top: 10,
-                //     left: 10,
-                //     right: 10,
-                //   ),
-                //   child: Row(
-                //     mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                //     children: [
-                //       Text(
-                //         'Special For You',
-                //         style: TextStyle(
-                //             color: kcolor.black,
-                //             fontSize: 20,
-                //             fontWeight: FontWeight.bold),
-                //       ),
-                //       SizedBox(
-                //         width: 0,
-                //       ),
-                //       TextButton(
-                //           onPressed: () {},
-                //           child: Text('See all',
-                //               style:
-                //                   TextStyle(color: kcolor.green, fontSize: 15)))
-                //     ],
-                //   ),
-                // ),
-                // ProductsPage(),
+                
               ],
             ),
           ),
